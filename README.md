@@ -1,4 +1,4 @@
-# cs435
+# cs435 - Big Data
 
 ## PA0
 Basic WordCount MapReduce program to verify our Hadoop was set up correctly.
