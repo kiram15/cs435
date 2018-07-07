@@ -1,8 +1,5 @@
 # cs435 - Big Data
 
-## PA0
-Basic WordCount MapReduce program to verify our Hadoop was set up correctly.
-
 ## PA1
 Generates the following unigram profiles (from a 1G dataset of Wikipedia articles) using MapReduce:
 
